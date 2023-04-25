@@ -97,3 +97,4 @@ print(k)
 =если(c2+d1>=3;0;c2+d1)
 =счетесли(d1:d10000;0)
 Учитывать начальную коробку
+[Миронов 051 (1).ods](https://github.com/IShadowCrowI/2polugod-.readme.md/files/11319702/051.1.ods)
